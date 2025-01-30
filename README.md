@@ -3,7 +3,7 @@
 <br>
 
 - Computer science student 
-- I'm interested in mobile app development using Flutter
+- Interested in mobile app development using Flutter
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p>
