@@ -2,7 +2,6 @@
 
 <br>
 
-
 - Computer science student 
 - I'm interested in mobile app development using Flutter
 <br><br>
@@ -16,13 +15,12 @@
 <br>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55px" title="C++"> 
-<img src="https://cdn3.emoji.gg/emojis/2872-c-sharp.png" width="55px" alt="C#">
 <img src="https://cdn3.emoji.gg/emojis/9985-python.png" width="55px" height="55px" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55px" title="Git"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55px" title="GitHub"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="55px" title="Dart">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="55px" title="Dart">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="55px" title="Flutter">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55px" title="Firebase">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55px" title="Git"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55px" title="GitHub"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="55px" title="WordPress">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="UI/UX Design" width="55px" title="UI/UX Design">
 </p>
