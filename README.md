@@ -6,14 +6,13 @@
 <h3 align="left">Computer science student </h3>
 <h3 align="left">I'm interested in mobile app development using Flutter</h3>
 <br><br>
-<p style="font-size: 30px; font-weight: bold;">:link: Links</p>
+:link: Links<br>
 <p>
  <a href="mailto:s4llymohamed@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"alt="email" width="48" height="48"/></a>
  <a href="https://www.linkedin.com/in/sally-mohamed-691588302"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"alt="email" width="48" height="48"/></a>
 </p>
 
-<br><br><br>
-
+<br>
 
 <h2 align="left">Languages and Tools:</h2>
 <br>
