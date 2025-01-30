@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Sally Mohamed! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <br>
-<img  align='right'src="https://s1.ezgif.com/tmp/ezgif-1f4ede4faa46d.gif" alt="Description of the gif" width="250">
+
 
 - Computer science student 
 - I'm interested in mobile app development using Flutter
