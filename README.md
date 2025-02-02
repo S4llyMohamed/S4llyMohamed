@@ -7,7 +7,7 @@
 - Enthusiastic about UI/UX design
 - Passionate about continuous learning and exploration ♾
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p>
